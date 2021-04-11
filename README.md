@@ -1,2 +1,0 @@
-# quickterminal
-Alfred workflow
