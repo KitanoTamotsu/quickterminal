@@ -1,4 +1,3 @@
-## 　　Lesson19.　ホットキーツールを作成する／後続フローを二股にする  
 #### 開発メモ
 ワークフロー
 <br><img width="600" src="https://user-images.githubusercontent.com/40127279/127756499-9981be1f-809f-4a91-a3e9-c5545eaaa0da.png">
